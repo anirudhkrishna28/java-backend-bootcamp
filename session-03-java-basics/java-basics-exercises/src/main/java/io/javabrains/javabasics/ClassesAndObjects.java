@@ -12,7 +12,7 @@ package io.javabrains.javabasics;
 ```
 Make: Toyota
 Model: Camry
-Year: 2022
+Year: 2020
 Details: 2020 Toyota Camry
 ```
 
